@@ -12,7 +12,10 @@ The steps to create the program were to
   
 #### Instructions: 
   1.	Unzip the folder and change to project directory in command line to access it.
-  2.  Initialise terraform in the project directory ```console terraform init ```
+  2.  Initialise terraform in the project directory 
+  ```console 
+  terraform init 
+  ```
   3.	Enter access credentials in the variables configuration file: terraform.tfvars
   4.	Then to view, deploy and delete the infrastructure run: 
 
