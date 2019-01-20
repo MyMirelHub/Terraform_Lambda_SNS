@@ -32,7 +32,6 @@ def handler(event, context):
 
 *Run in Windows10, Lambda in python 3.7 
 #### Results
-
 ##### Plan
 ```
 An execution plan has been generated and is shown below.
