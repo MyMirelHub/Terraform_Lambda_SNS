@@ -23,7 +23,7 @@ The steps to create the program were to
  ```
 The lambda function is contained in lambda.zip. The Lambda function is: 
 
-```
+```Python
 from __future__ import print_function
 def handler(event, context):
     print('Hello World')
