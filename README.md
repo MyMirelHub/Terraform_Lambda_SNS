@@ -33,7 +33,7 @@ def handler(event, context):
 *Run in Windows10, Lambda in python 3.7 
 #### Results
 ##### Plan
-```
+```console
 An execution plan has been generated and is shown below.
 Resource actions are indicated with the following symbols:
   + create
@@ -105,7 +105,7 @@ Terraform will perform the following actions:
 Plan: 6 to add, 0 to change, 0 to destroy.
 ```
 ##### Apply
-```
+```console
 aws_sns_topic.HelloLambdaSNS: Creating...
   arn:    "" => "<computed>"
   name:   "" => "HelloLambdaSNS"
